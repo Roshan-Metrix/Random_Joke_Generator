@@ -32,7 +32,8 @@ Check out the live page [here](https://neptech-roshan.github.io/Random_Joke_Gene
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshots/screenshot1.jpg)
+![Screenshot](screenshots/screenshot2.jpg)
 
 
 ## Acknowledgements
