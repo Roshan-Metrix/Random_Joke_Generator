@@ -2,8 +2,12 @@
 module.exports = {
   content: ["*.html","./src/*.js"],
   theme: {
-    extend: {},
-  },
+    extend: {
+      fntFamily: {
+        rubik: ["Rubik","sans-serif"],
+      },
+    },
+    },
   plugins: [],
   darkMode:'class',
 }
