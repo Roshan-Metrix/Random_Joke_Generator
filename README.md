@@ -21,7 +21,7 @@ This project is a Random Joke Generator created by Roshan Patel. It's a fun litt
 
 ## Live Page
 
-Check out the live page [here](https://neptech-roshan.github.io/Random_Joke_Generator/).
+Check out the live page [here](https://roshan-metrix.github.io/Random_Joke_Generator/)
 
 ## How to Use
 
